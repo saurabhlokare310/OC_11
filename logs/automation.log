@@ -1,0 +1,17 @@
+2025-09-20 00:00:23 INFO  TC_003_LoginDDT:19 - ****** Starting TC_003_LoginDDT ******
+2025-09-20 00:00:26 INFO  TC_003_LoginDDT:72 - ****** Finished TC_003_LoginDDT ******
+2025-09-20 00:00:26 INFO  TC_003_LoginDDT:19 - ****** Starting TC_003_LoginDDT ******
+2025-09-20 00:00:38 INFO  TC_003_LoginDDT:72 - ****** Finished TC_003_LoginDDT ******
+2025-09-20 00:00:38 INFO  TC_003_LoginDDT:19 - ****** Starting TC_003_LoginDDT ******
+2025-09-20 00:00:50 INFO  TC_003_LoginDDT:72 - ****** Finished TC_003_LoginDDT ******
+2025-09-20 00:00:50 INFO  TC_003_LoginDDT:19 - ****** Starting TC_003_LoginDDT ******
+2025-09-20 00:01:02 INFO  TC_003_LoginDDT:72 - ****** Finished TC_003_LoginDDT ******
+2025-09-20 00:01:02 INFO  TC_003_LoginDDT:19 - ****** Starting TC_003_LoginDDT ******
+2025-09-20 00:01:05 INFO  TC_003_LoginDDT:72 - ****** Finished TC_003_LoginDDT ******
+2025-09-20 00:07:54 INFO  TC_002_LoginTest:16 - *******Starting TC_002_LoginTest*******
+2025-09-20 00:07:55 INFO  TC_002_LoginTest:21 - clicked on MyAccount link..
+2025-09-20 00:07:56 INFO  TC_002_LoginTest:23 - clicked on Login link..
+2025-09-20 00:07:56 INFO  TC_002_LoginTest:28 - Entered login details..
+2025-09-20 00:07:56 INFO  TC_002_LoginTest:30 - clicked on Login button..
+2025-09-20 00:07:57 INFO  TC_002_LoginTest:42 - *******Finished TC_002_LoginTest*******
+2025-09-25 00:55:27 ERROR TC_001_AccountRegistrationTest:47 - Test Failed..
